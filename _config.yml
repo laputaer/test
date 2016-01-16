@@ -11,7 +11,8 @@ permalink:        pretty
 title:            fiona
 tagline:          '从这里出初江湖，携手仗剑江湖路'
 description:      'Hello'
-baseurl:           /blog
+baseurl:           /test
+
 author:
   name:           'fiona'
   url:            https://github.com/fiona23
